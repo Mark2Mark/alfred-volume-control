@@ -19,4 +19,6 @@ Volume Control allows you to control the volume of your Mac with Alfred workflow
 
 #Installation
 
-Download [Volume Control.alfredworkflow](https://github.com/raulchen/alfred-volume-control/raw/master/Volume%20Control.alfredworkflow) and double-click it.
+~~Download [Volume Control.alfredworkflow](https://github.com/raulchen/alfred-volume-control/raw/master/Volume%20Control.alfredworkflow) and double-click it.~~
+
+Needs new compilation into a workflow after recent changes in this fork.
