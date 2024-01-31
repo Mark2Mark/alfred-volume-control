@@ -68,7 +68,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>python process_operation.py {query}</string>
+				<string>python3 process_operation.py {query}</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -116,7 +116,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>script</key>
-				<string>python volume_control.py {query}</string>
+				<string>python3 volume_control.py {query}</string>
 				<key>title</key>
 				<string>Volume Control</string>
 				<key>type</key>
